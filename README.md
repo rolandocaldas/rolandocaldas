@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Programmer Analyst at Altia former Roi Scroll CTO. Proud coorganizer of PHP Vigo meetup and the craftsmanship conference PulpoCon.
+Senior Software Enineer at Pridatect. Former Programmer Analyst at Altia and Roi Scroll CTO. Proud coorganizer of PHP Vigo meetup and the craftsmanship conference PulpoCon.
 
 Speaker, trainer and mentor. SOLID follower and #RIGOR fan
 
